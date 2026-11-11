@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on **[project name and one line about it]**
 - 🌱 I'm learning **[e.g. React and cloud deployment]**
-- 💼 Portfolio: **[your-username.github.io]([https://your-username.github.io](https://github.com/leslieezambrano))**
+- 💼 Portfolio: **[leslieezambrano.io](https://your-username.github.io)**
 - 📫 Reach me at leslieazambrano@gmail.com or on [LinkedIn](https://www.linkedin.com/in/leslie-zambrano-885068418)
 
 ### Tech I use
